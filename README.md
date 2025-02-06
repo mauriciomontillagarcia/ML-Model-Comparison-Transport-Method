@@ -1,2 +1,2 @@
-# ML Model comparison transport method
+# ML Model comparison for the transport method
 The goal of this project is to enhance future efficiency in predicting transportation methods. As sustainability, cost-effectiveness, and efficiency in transport policies gain importance, applying the Machine Learning models described here could be highly beneficial.
